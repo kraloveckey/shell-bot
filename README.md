@@ -1,5 +1,9 @@
 # shell-bot
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
+
 Simple Telegram bot written on bash that execute commands in shell.
 You can send commands to your server without SSH access, or open SSH port,
 or something like this. Support many master ID's, you can provide access
